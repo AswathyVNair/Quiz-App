@@ -14,4 +14,3 @@ CREATE TABLE users (
 INSERT INTO users (username, email, password)
 VALUES ('john123', 'john@example.com', 'password123');
 
---showing table
